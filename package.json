@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10"
+  }
+}
